@@ -1,3 +1,13 @@
+
+
+# Disclaimer
+
+
+**The code within this repository comes with no guarantee, the use of this code is your responsibility. I take NO responsibility and/or liability for how you choose to use any of the source code available here. By using any of the files available in this repository, you understand that you are AGREEING TO USE AT YOUR OWN RISK. Once again, ALL files available here are for EDUCATION and/or RESEARCH purposes ONLY.**
+
+
+
+
 ![Imgur](bc.gif)
 
 **Programmed in Python | PySimpleGUI**
@@ -55,11 +65,5 @@ public key: 04040e4311b932c26f2172e112d1e37bca43428ea6951e3269513ecff6dda67dd
 ```
 
 
-
-
-# Disclaimer
-
-
-**The code within this repository comes with no guarantee, the use of this code is your responsibility. I take NO responsibility and/or liability for how you choose to use any of the source code available here. By using any of the files available in this repository, you understand that you are AGREEING TO USE AT YOUR OWN RISK. Once again, ALL files available here are for EDUCATION and/or RESEARCH purposes ONLY.**
 
 
