@@ -3,24 +3,12 @@
 **Programmed in Python | PySimpleGUI**
 
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/adrijano/Bitcoin-wallet-cracker/)
-
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/adrijano/Bitcoin-wallet-cracker/graphs/commit-activity)
-
 
 # Bitcoin wallet cracker
 ```
 Automated Bitcoin wallet generator. With mnemonic and passphrases bruteforces wallet addresses.
 
 ```
-# If you like it give it a star
-
-[![GitHub stars](https://img.shields.io/github/stars/adrijano/Bitcoin-wallet-cracker.svg?style=social&label=Star&maxAge=0)](https://github.com/adrijano/Bitcoin-wallet-cracker/)
-
-![Adrijan's github stats](https://github-readme-stats.vercel.app/api?username=adrijano&show_icons=true)
-
 
 
 
@@ -53,22 +41,19 @@ hashing techniques using Python.
 ```
 address: 17wd8bTwMPYfbo6YwmTFU4xH4hDkd13ATZ
 private key: 0651863bf5d902262b17c4621ec340544ff016752543d99a92d7d22872d8a455
-WIF private key: 5Hs4yg5HYcAmS97UPgmj54V6Lvmv1yKf4yGWs4qcwkWjB5FFnaz
+WIF private key: 5Hs4yg5HYcAmS97UPgmj54V6Lvxghhjy65ejlwkWjB5FFnaz
 public key: 040577b1aa3256fed819174b1e6557d4b269f42e383df393b1e8a4c6b9d117994
-bc476304738fb948cec05a5d17d0fe6f996e7ec0b4a8e2853e41d6657f3f41e33
+bc476304738fb948cec05a5d17d0fe6f996e7ec0b4a8efchbkjn7y657f3f41e33
 
 
 
 address: 125Rs7DdFpNdZgxtPvsQXiM3MDsCEt6F49
 private key: 177c1fdf54c4cb646e3425b7756f5c517c740bdc997b59c968e0a92a0b425f54
-WIF private key: 5HzdUFvvYhiKw97xnZtv5eYWuHKQZ1GMWVChuzkxwuQvrzacPg5
+WIF private key: 5HzdUFvvYhiKw97xnZtv5eYWuFDJHGKChuzkxwuQvrzacPg5
 public key: 04040e4311b932c26f2172e112d1e37bca43428ea6951e3269513ecff6dda67dd
-8b39666ef34e1dfd82cfdc689d6099905ed9f291f4b4bdf921e81d1b657eee1e6
+8b39666ef34e1dfd82cfdc689d4689539ed9f291f4b4bdf921e81d1b657eee1e6
 ```
 
-
-
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/adrijano/Bitcoin-wallet-cracker/)
 
 
 
